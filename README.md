@@ -26,4 +26,5 @@ join - connects X dir/folder to Y dir/folder/path (args: dirX, dirY) (connect fu
 ----------------------------------------------
 Other methods:
 - 
-cfProc Checks for process (like in the task manager). Example (name arg): 'program.exe' (args: name (str))
+cfProc - Checks for process (like in the task manager). Example (name arg): 'program.exe' (args: name (str))
+-
