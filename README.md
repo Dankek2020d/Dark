@@ -23,3 +23,7 @@ del_file - deletes file
 -
 join - connects X dir/folder to Y dir/folder/path (args: dirX, dirY) (connect func)
 -
+----------------------------------------------
+Other methods:
+- 
+cfProc Checks for process (like in the task manager). Example (name arg): 'program.exe' (args: name (str))
